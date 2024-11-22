@@ -1,4 +1,4 @@
-# Sales Campaign Optimisation: Predictive Modeling & Customer Segmentation 📊💡
+# Sales Campaign Optimisation: Predictive Modeling & Customer Segmentation 📊💡🏦
 We address
 marketing difficulties faced by the Great Ocean Bank Australia (a fictitious bank), intending to improve their sales 
 campaigns’ effectiveness. 
